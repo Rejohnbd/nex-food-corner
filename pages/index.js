@@ -15,7 +15,6 @@ export default function Home() {
       </Head>
       <Featured />
       <PizzaList />
-      Homepage
     </div>
   );
 }
